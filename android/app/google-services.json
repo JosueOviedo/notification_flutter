@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "662692628309",
+    "project_id": "cold-war-e71f3",
+    "storage_bucket": "cold-war-e71f3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662692628309:android:66444d56407b22988d91dc",
+        "android_client_info": {
+          "package_name": "com.example.turismo_notificaciones"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwC38t0DaQRd0Oshl_upyeq78QwGFEDWw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
